@@ -1,4 +1,3 @@
-//Candidate Number: 099500 - Solving the Advection equation, when placed on the University of Exeter HPC System
 #include <stdio.h>
 #include <stdbool.h>
 #include <math.h>
